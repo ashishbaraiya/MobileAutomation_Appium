@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48196" started-at="2015-04-22T12:23:14Z" finished-at="2015-04-22T12:24:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48196" started-at="2015-04-22T12:23:14Z" finished-at="2015-04-22T12:24:02Z">
+      <class name="com.mobileauto.appium.test.MyAppiumAPKTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mobileauto.appium.test.MyAppiumAPKTest@1d251891]" name="setUp" is-config="true" duration-ms="25437" started-at="2015-04-22T17:53:14Z" finished-at="2015-04-22T17:53:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="calculatorAppTest()[pri:0, instance:com.mobileauto.appium.test.MyAppiumAPKTest@1d251891]" name="calculatorAppTest" duration-ms="16546" started-at="2015-04-22T17:53:40Z" finished-at="2015-04-22T17:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculatorAppTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.mobileauto.appium.test.MyAppiumAPKTest@1d251891]" name="teardown" is-config="true" duration-ms="6199" started-at="2015-04-22T17:53:56Z" finished-at="2015-04-22T17:54:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.mobileauto.appium.test.MyAppiumAPKTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
